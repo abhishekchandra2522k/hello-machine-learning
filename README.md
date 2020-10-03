@@ -1,4 +1,15 @@
-# hello-world
+## hello-machine-learning
+
+<p align = "center">
+<img src = "Machine_thinking.gif" width = 700px height = 350px />
+</p>
+
+
+
+
+
+
+<!--
 My first repository
 
 Hey there!, I am Abhishek Chandra.
@@ -6,5 +17,4 @@ I am doing graduation from Bharati Vidyapeeth's College of Engineering (Bachelor
 
 
 This repository contains material for Learning Machine Learning using Python Programming Language.
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhishekchandra2522k.hello-world)
+-->
