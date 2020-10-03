@@ -1,7 +1,7 @@
 ## hello-machine-learning
 
 <p align = "center">
-<img src = "Machine_thinking.gif" width = 700px height = 350px />
+<img src = "Machine_thinking.gif" width = 600px height = 305px />
 </p>
 
 
