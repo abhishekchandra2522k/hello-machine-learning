@@ -1,5 +1,7 @@
 ## hello-machine-learning
 
+This repository contains material for Learning Data Analysis and Machine Learning using Python Programming Language.
+
 <p align = "center">
 <img src = "Machine_thinking.gif" width = 600px height = 305px />
 </p>
